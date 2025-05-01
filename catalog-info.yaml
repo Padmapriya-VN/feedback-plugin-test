@@ -9,5 +9,5 @@ metadata:
 spec:
   type: website
   lifecycle: experimental
-  owner: padmapriyavedagiri.nagarajan.ext
+  owner: user:default/padmapriyavedagiri.nagarajan.ext
   system: examples
