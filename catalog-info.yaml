@@ -1,0 +1,13 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: feedback-on-mail
+  annotations:
+    feedback/type: 'MAIL'
+    feedback/email-to: 'padmapriyavedagiri.nagarajan.ext@bayer.com'
+    
+spec:
+  type: website
+  lifecycle: experimental
+  owner: padmapriyavedagiri.nagarajan.ext
+  system: examples
