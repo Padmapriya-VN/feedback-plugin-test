@@ -2,6 +2,7 @@ apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
   name: feedback-on-mail
+  description: Feedback Mail test repo
   annotations:
     feedback/type: 'MAIL'
     feedback/email-to: 'padmapriyavedagiri.nagarajan.ext@bayer.com'
